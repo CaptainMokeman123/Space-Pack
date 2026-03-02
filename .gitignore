@@ -1,0 +1,13 @@
+/logs/*
+/resoucepacks/*
+/saves/*
+/screenshots/*
+/server-resource-packs/*
+/shaderpacks/*
+/texturepacks/*
+/.mixin.out/*
+chooser_0.png
+icon.png
+mobs_0.png
+pings_0.png
+waypoints_0.png
